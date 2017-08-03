@@ -3,9 +3,38 @@
 }
 
 .lefttabs {
-  text-align: left;
+
 }
 
 .righttabs {
-  text-align: right;
+
+}
+
+.bluecontent {
+  background-color: #f5faff;
+}
+
+.greencontent {
+  background-color: #f5fffa;
+}
+
+.panel-green {
+  background-color: #cef2e0;
+  border: 2px solid #cef2e0;
+  margin-bottom: 3px;
+}
+
+.panel-blue {
+  background-color: #cedff2;
+  border: 2px solid #cedff2;
+  margin-bottom: 3px;
+}
+
+.panel-purple {
+  background-color: #ddcef2;
+  border: 2px solid #ddcef2;
+}
+
+.purplecontent {
+  background-color: #faf5ff;
 }
